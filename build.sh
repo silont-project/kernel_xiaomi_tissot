@@ -36,8 +36,8 @@ TEMPZIPNAME="${KERNELNAME}-unsigned.zip"
 ZIPNAME="${KERNELNAME}.zip"
 
 # Telegram
-CHATIDQ="-1403992599"
-CHATID="-1403992599" # Group/channel chatid (use rose/userbot to get it)
+CHATIDQ="-561797338"
+CHATID="-561797338" # Group/channel chatid (use rose/userbot to get it)
 TELEGRAM_TOKEN="" # Get from botfather
 
 # Export Telegram.sh
